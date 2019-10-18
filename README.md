@@ -17,7 +17,7 @@ An exhaustive collection of words as json files for easy access.
 
 > [Refer the template provided below to add your word](https://github.com/Showndarya/Hacktoberfest/blob/master/CONTRIBUTING.md)
 
-
+##  I understand how to create pull requests
 ## Create your first pull request :sunglasses:
 
 > [Fork this repository](https://help.github.com/articles/fork-a-repo/)
