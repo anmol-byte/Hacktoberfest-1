@@ -6,7 +6,8 @@ import subprocess
 
 from jsonschema import Draft4Validator
 
-
+// Its a important file in the Repository
+// It's a python file
 def validate(vocabulary):
 
     # Load the schema from the same directory
